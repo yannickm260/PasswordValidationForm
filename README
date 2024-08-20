@@ -1,0 +1,29 @@
+# Password Validation Form
+
+This project is a simple password validation form built using HTML, Tailwind CSS, and JavaScript. The form checks the validity of the entered password against certain criteria such as the inclusion of lowercase letters, uppercase letters, numbers, and a minimum length of 8 characters. The validation is shown in real-time as the user types their password.
+
+## Demo
+
+You can view a live demo of the project by opening the HTML file in your browser.
+
+## Features
+
+- Real-time password validation.
+- Shows validation rules for lowercase letters, uppercase letters, numbers, and minimum length.
+- Uses Tailwind CSS for styling.
+- Animations and transitions to enhance the user experience.
+
+## Technologies Used
+
+- **HTML5**: For structuring the content.
+- **Tailwind CSS**: For styling the form and elements.
+- **JavaScript**: For handling the password validation logic.
+- **Custom CSS**: For additional animations.
+
+## Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/yannick260/PasswordValidationForm.git
